@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}What You Need}{2}
+\contentsline {section}{\numberline {3}Loading}{2}
+\contentsline {section}{\numberline {4}Options}{3}
+\contentsline {section}{\numberline {5}Usage}{3}
+\contentsline {section}{\numberline {6}Customization}{4}
+\contentsline {section}{\numberline {7}Example}{6}
+\contentsline {section}{\numberline {8}Implementation}{6}
+\contentsline {subsection}{\numberline {8.1}Identification}{6}
+\contentsline {subsection}{\numberline {8.2}Initialization}{6}
+\contentsline {subsection}{\numberline {8.3}Option Declaration}{7}
+\contentsline {subsection}{\numberline {8.4}Option Processing}{7}
+\contentsline {subsection}{\numberline {8.5}Defining Commands}{7}
+\contentsline {section}{References}{9}
